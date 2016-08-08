@@ -1,3 +1,7 @@
+DAY 01 - 08-08-2016
+
+Creation of a You Tube Downloader using Python Pafy and Python Web Application Framework web.py .
+
 '''
 Installations required
 '''
@@ -8,3 +12,10 @@ sudo pip install web.py
 
 sudo pip install youtube-dl
 sudo pip install pafy
+
+'''
+How to execute
+'''
+
+python app.py
+localhost:8080
