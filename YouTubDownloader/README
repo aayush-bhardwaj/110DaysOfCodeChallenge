@@ -1,0 +1,10 @@
+'''
+Installations required
+'''
+
+sudo apt-get install python-pip
+sudo pip install web.py
+
+
+sudo pip install youtube-dl
+sudo pip install pafy
