@@ -1,5 +1,5 @@
 Cheetah==2.4.4
-Django==1.6.1
+Django==1.11.29
 ImcSdk==0.7.2
 PAM==0.4.2
 Pillow==2.3.0
