@@ -4,7 +4,7 @@ ImcSdk==0.7.2
 PAM==0.4.2
 Pillow==2.3.0
 PyYAML==3.10
-Twisted==13.2.0
+Twisted==20.3.0
 Twisted-Conch==13.2.0
 Twisted-Core==13.2.0
 Twisted-Lore==13.2.0
