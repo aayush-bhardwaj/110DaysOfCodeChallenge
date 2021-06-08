@@ -2,7 +2,7 @@ Cheetah==2.4.4
 Django==1.6.1
 ImcSdk==0.7.2
 PAM==0.4.2
-Pillow==2.3.0
+Pillow==8.2.0
 PyYAML==3.10
 Twisted==13.2.0
 Twisted-Conch==13.2.0
